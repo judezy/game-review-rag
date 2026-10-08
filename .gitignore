@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# ignore data
+data/*
+
+# include a small, demo dataset
+!data/video_games_demo.csv
