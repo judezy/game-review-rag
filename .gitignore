@@ -4,8 +4,6 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# ignore data
+# ignore data, but include a small, demo dataset
 data/*
-
-# include a small, demo dataset
 !data/video_games_demo.csv
