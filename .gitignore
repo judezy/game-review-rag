@@ -7,3 +7,6 @@ __pycache__/
 # ignore data, but include a small, demo dataset
 data/*
 !data/video_games_demo.csv
+
+# chroma db local storage
+chroma_db/
